@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pestcontrolhickory.com/sitemap.xml
